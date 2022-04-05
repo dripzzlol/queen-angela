@@ -25,6 +25,7 @@ Asena.addCommand({pattern: 'menu', fromMe: true, desc: Lang.WP}, (async (message
 
 Ahd Bot
 🌟𝗧𝗬𝗣𝗘 .𝗹𝗶𝘀𝘁 𝗙𝗢𝗥 𝗠𝗢𝗥𝗘🌟
+https://www.ahad.cf
 ┌───💙〔 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡 〕
 ┊ *💎𝙲𝚁𝙴𝙰𝚃𝙾𝚁:* Ahad
 ┊
