@@ -14,7 +14,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.imgur.com/vUdEZMv.jpg";
+    r_text[0] = "https://images-platform.99static.com/ZCpXMlk14yFO3IjW2LW4gErK3m8=/0x0:1630x1630/500x500/top/smart/99designs-contests-attachments/128/128969/attachment_128969426";
     
     
     var i = Math.floor(1*Math.random())
