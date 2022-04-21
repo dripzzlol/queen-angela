@@ -23,7 +23,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `
 
-✨𝗤𝗨𝗘𝗘𝗡 𝗔𝗡𝗚𝗘𝗟𝗔 𝗠𝗘𝗡𝗨✨
+✨Ahd✨
 🌟𝗧𝗬𝗣𝗘 .𝗹𝗶𝘀𝘁 𝗙𝗢𝗥 𝗠𝗢𝗥𝗘🌟
 https://www.ahad.cf
 ┌───💙〔 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡 〕
